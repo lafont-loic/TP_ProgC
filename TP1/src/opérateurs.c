@@ -7,13 +7,14 @@ int b = 6;
 int resultat = a + b;
 int resultatsous = a - b;
 int somme = a * b;
-float resultatdiv = a / b;
+float resultatdiv = (float)a / b;
 printf( "le résultat du calcul est %d \n" , resultat);
 printf( " le résultat de la soustraction est %d \n" , resultatsous);
 printf( "la somme du calcul est %d \n" , somme);
 printf( " le résultat de la division est %f \n" , resultatdiv);
 
 }
+
 
 
 
