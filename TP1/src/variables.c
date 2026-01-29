@@ -33,11 +33,12 @@ int main() {
     printf("Le contenu de ma variable long long int est : %lld \n", mon_nombrelonglong);
     printf("Le contenu de ma variable unsigned long long int est : %llu \n", mon_nombrelonglongun);
     printf("Le contenu de ma variable float est : %f \n", mon_nombrefloat);
-    printf("Le contenu de ma variable doucbe est : %lf \n", mon_nombredouble);
+    printf("Le contenu de ma variable double est : %lf \n", mon_nombredouble);
     printf("Le contenu de ma variable long double est : %Lf \n", mon_nombrelongdouble);
 
     return 0;
 }
+
 
 
 
