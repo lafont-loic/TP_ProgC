@@ -2,13 +2,14 @@
 #include <string.h>
 
 int main() {
-printf("" , sizeof(char));
-printf("" , sizeof(short));
-printf("" , sizeof(int));
-printf("" , sizeof(long int));
-printf("" , sizeof(float));
-printf("" , sizeof(double));
-printf("" , sizeof(long double));
+printf("La taille en octect" , sizeof(char));
+printf("La taille en octect" , sizeof(short));
+printf("La taille en octect" , sizeof(int));
+printf("La taille en octect" , sizeof(long int));
+printf("La taille en octect" , sizeof(float));
+printf("La taille en octect" , sizeof(double));
+printf("La taille en octect" , sizeof(long double));
 }
+
 
 
